@@ -52,7 +52,7 @@
         android:layout_height="wrap_content"
         android:background="@color/black"
         android:padding="8dp"
-        android:text="© 2023 Todos los derechos reservados"
+        android:text="© 2025 Todos los derechos reservados"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textSize="14sp"
